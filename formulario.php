@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>ejercicio</title>
+    <title>proyecto de yilhe</title>
   </head>
   <body>
     <form action="recibir.php" method="post">
